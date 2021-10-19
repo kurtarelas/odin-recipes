@@ -1,0 +1,1 @@
+This basic recipe website project is made using HTML elements such as headings, paragraphs, strong, emp, lists, anchor (links), and images. 
